@@ -15,7 +15,7 @@ int main( int argc, char** argv ) {
                    "[<rho> <theta> [<threshold> [<minLineLength> <maxLineGap>]]]\n"
                    "method: 0 - standard, 1 - prob\n"
                    "rho: rho threshold in pixels\n"
-                   "theta: theta threshold in gradus\n"
+                   "theta: theta threshold in degrees\n"
                    "threshold: threshold in pixels in line\n";
         return -1;
     }
